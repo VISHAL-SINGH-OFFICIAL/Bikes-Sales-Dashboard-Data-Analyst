@@ -35,7 +35,6 @@ The ultimate goal of the "Bikes Sales" project across India is to increase the s
 
 Based on these insights, a sales dashboard can be created to provide a visual representation of the performance of the business. The dashboard can include KPIs such as average income per purchase, age brackets of customers, customer commute, education level, and regional sales. This dashboard will help in making informed decisions about the business strategy and optimizing the sales and profitability of the bike business.
 
-![Screenshot%20%2896%29-2.png](attachment:Screenshot%20%2896%29-2.png)
 
 ![Screenshot (96)](https://user-images.githubusercontent.com/107672108/229504179-98d3de1b-1a5f-4fcc-a887-9782c677e139.png)
 
